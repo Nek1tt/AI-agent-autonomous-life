@@ -97,8 +97,8 @@ ai-agent-autonomous-life/
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/your-org/cyber-bdi-simulator.git
-cd ai-agent-autonomous-life
+git clone https://github.com/Nek1tt/AI-agent-autonomous-life.git
+cd AI-agent-autonomous-life
 
 # 2. Создать виртуальное окружение
 python -m venv venv
